@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "tech-conference",
+      "description": "A conference on the future of technology.",
+      "imageUrl": "https://images.unsplash.com/photo-1700936655767-7049129f1995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0ZWNobm9sb2d5JTIwY29uZmVyZW5jZXxlbnwwfHx8fDE3NjcxMzkwMjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "technology conference"
+    },
+    {
+      "id": "art-exhibition",
+      "description": "An exhibition showcasing student artwork.",
+      "imageUrl": "https://images.unsplash.com/photo-1569084024058-1632922a4e1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhcnQlMjBnYWxsZXJ5fGVufDB8fHx8MTc2NzEzOTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "art gallery"
+    },
+    {
+      "id": "music-festival",
+      "description": "An outdoor music festival with live bands.",
+      "imageUrl": "https://images.unsplash.com/photo-1656401992374-5ce15b9a11fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bXVzaWMlMjBjb25jZXJ0fGVufDB8fHx8MTc2NzEzOTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music concert"
+    },
+    {
+      "id": "career-fair",
+      "description": "A fair for students to connect with potential employers.",
+      "imageUrl": "https://images.unsplash.com/photo-1653566031629-487b65dd48e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxqb2IlMjBmYWlyfGVufDB8fHx8MTc2NzEzOTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "job fair"
+    },
+    {
+      "id": "coding-hackathon",
+      "description": "A 24-hour coding competition.",
+      "imageUrl": "https://images.unsplash.com/photo-1565687981296-535f09db714e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb2RpbmclMjBoYWNrYXRob258ZW58MHx8fHwxNzY3MTM5MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coding hackathon"
+    },
+    {
+      "id": "robotics-workshop",
+      "description": "A hands-on workshop to build and program robots.",
+      "imageUrl": "https://images.unsplash.com/photo-1581916459131-90da1f9c7162?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyb2JvdGljcyUyMHdvcmtzaG9wfGVufDB8fHx8MTc2NzEzOTAyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robotics workshop"
+    },
+    {
+      "id": "entrepreneurship-summit",
+      "description": "A summit for aspiring student entrepreneurs.",
+      "imageUrl": "https://images.unsplash.com/photo-1503428593586-e225b39bddfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxidXNpbmVzcyUyMGNvbmZlcmVuY2V8ZW58MHx8fHwxNzY3MDQ0MjM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business conference"
+    },
+    {
+      "id": "literary-fest",
+      "description": "A festival celebrating literature with author talks and workshops.",
+      "imageUrl": "https://images.unsplash.com/photo-1577045629710-8e0bd30c1a03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxib29rJTIwZmVzdGl2YWx8ZW58MHx8fHwxNzY3MTM5MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "book festival"
+    }
+  ]
 }
